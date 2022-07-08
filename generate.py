@@ -1,4 +1,4 @@
-import requirments.txt
+import requirments
 import numpy
 import pandas as pd
 import time
