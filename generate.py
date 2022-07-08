@@ -1,3 +1,4 @@
+import requirments.txt
 import numpy
 import pandas as pd
 import time
@@ -5,6 +6,7 @@ import time
 import matplotlib.pyplot as plt
 from drawnow import drawnow
 import random
+
 
 global count, x_axis, defender, attacker, seconds, generated_values
 
